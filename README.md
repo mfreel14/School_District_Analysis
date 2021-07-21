@@ -60,7 +60,7 @@ After Adjustments: 10th-12th Grade Data Only
   -  Scores by school spending
     
       The adjustment to the 9th grader data has impacted:
-      Average Math Score
+      <br>Average Math Score</br>
       Average Reading Score
       % Passing Math
       % Passing Reading
