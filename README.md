@@ -54,11 +54,46 @@ After Adjustments: 10th-12th Grade Data Only
       
       <img width="447" alt="DF - 9th NaN" src="https://user-images.githubusercontent.com/691355/126559396-26666f9a-7dcb-40c4-ad12-cca68b485de1.png">
 
-
--  Scores by school spending
+      All other school data remained the same.  Although if we were to compare averages we would see a difference with and without the 9th grade data included.
+      
+      
+  -  Scores by school spending
+    
+      The adjustment to the 9th grader data has impacted:
+      Average Math Score
+      Average Reading Score
+      % Passing Math
+      % Passing Reading
+      % Overall Passing
+      
+      This change is from replacing these values with the data from the 10th, 11th and 12th graders only from Thomas High School.
+      
+      
+      
  
 -  Scores by school size
+
+   There was no impact to the data.
+   
+  <img width="843" alt="DF - Scores by School Size" src="https://user-images.githubusercontent.com/691355/126561443-6ee24245-6913-4339-9c42-9b68fc3ad759.png">
+
   
 -  Scores by school type
 
--  Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced #with NaNs.
+   The scores by school type saw changes for the "Charter" data.
+   Average Match Score decreased from 83.47 to 83.45
+   Average Reading Score increased from 83.89 to 83.90
+   % Passsing Math decreased from 93.62% to 93.61%
+   % Passing Reading decreased from 96.58 to 96.55
+   % Overall Passing decreased from 90.43 to 90.39
+  
+  <img width="787" alt="DF - Scores by School Type" src="https://user-images.githubusercontent.com/691355/126561909-5a1d65e4-c2b3-4134-a2e1-ec11f1e298e9.png">
+
+## Summary: 
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced #with NaNs.
+
+Average Math Score decreased from 79% to 78.9%.
+Average Reading score stayed the same at 81.9%
+Passing Math score decreased from 75% to 74.8%
+Passing Reading % decreased from 85.8% to 85.7%.
+Overall Passing % decreased from 65.2% to 64.9%.
