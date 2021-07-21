@@ -22,9 +22,13 @@ After Adjustments:
 All the impacted categories saw (<1%) change.
 
 Average Math Score decreased from 79% to 78.9%.
+
 Average Reading score stayed the same at 81.9%
+
 Passing Math score decreased from 75% to 74.8%
+
 Passing Reading % decreased from 85.8% to 85.7%.
+
 Overall Passing % decreased from 65.2% to 64.9%.
 
 -  How is the school summary affected?
