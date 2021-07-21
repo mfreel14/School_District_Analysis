@@ -50,7 +50,10 @@ After Adjustments: 10th-12th Grade Data Only
 
   -  Math and reading scores by grade
       
-      The only impact is to 9th g
+      Math and reading scores for the 9th graders at Thomas High School was replaced with NaN.
+      
+      <img width="447" alt="DF - 9th NaN" src="https://user-images.githubusercontent.com/691355/126559396-26666f9a-7dcb-40c4-ad12-cca68b485de1.png">
+
 
 -  Scores by school spending
  
