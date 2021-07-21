@@ -9,16 +9,38 @@ She has asked you to replace the math and reading scores for Thomas High School 
 
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 -  How is the district summary affected?
-<img width="937" alt="Screen Shot 2021-07-21 at 12 06 56 PM" src="https://user-images.githubusercontent.com/691355/126545617-a3b3edd0-a6cd-42ad-a15a-a76057764996.png">
 
-#How is the school summary affected?
+There was a slight impact to the district summary categories after adjustments were made to Thomas High Schools 9th grade data.
+
+Before Adjustments:
+<img width="942" alt="DF - Pycity" src="https://user-images.githubusercontent.com/691355/126548138-2b9fc7c8-c97e-4223-9fa5-01a09dbd68fd.png">
+
+After Adjustments:
+<img width="933" alt="DF-Challenge" src="https://user-images.githubusercontent.com/691355/126548167-a5bc0d06-d253-4855-94de-9e743c9e37de.png">
+
+All the impacted categories saw (<1%) change.
+
+Average Math Score decreased from 79% to 78.9%.
+Average Reading score stayed the same at 81.9%
+Passing Math score decreased from 75% to 74.8%
+Passing Reading % decreased from 85.8% to 85.7%.
+Overall Passing % decreased from 65.2% to 64.9%.
+
+-  How is the school summary affected?
+
+The school summary saw a greater increase in percentages after only 10th-12th grader data was added to the per school summary.
+
+Before Adjustments: 9th Grader Data w/Nan
+<img width="999" alt="DF - ps - before" src="https://user-images.githubusercontent.com/691355/126552191-d8cb6a2d-3c8e-4a7c-9e0a-9ac65b88f184.png">
+
+After Adjustments: 10th-12th Grade Data Only
+<img width="987" alt="DF - ps - After" src="https://user-images.githubusercontent.com/691355/126552220-bacf6992-70b6-4566-bca8-0a3b5e918cdf.png">
 
 
+-  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-
-#How does replacing the ninth-grade scores affect the following:
+-  How does replacing the ninth-grade scores affect the following:
 
 #Math and reading scores by grade
 #Scores by school spending
